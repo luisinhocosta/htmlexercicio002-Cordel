@@ -59,13 +59,15 @@ section.imageback{
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: inset 10px 10px 10px 0px rgba(0, 0, 0, 0.267);
+    background-position: right bottom;
 }
 section#img1{
     background-image: url(imagens/background001.jpg);
+
 }
 section#img2{
     background-image: url( imagens/background002.jpg);
-    background-position: right bottom;
+    
 }
 section.imageback >p{
     background-color: rgba(0, 0, 0, 0.384);
